@@ -1,0 +1,11 @@
+{
+    "Name": "ResourceMod",
+    "Author": "Denkiya",
+    "Version": "1.0.0",
+    "Description": "A simple mod to give 50 stones and 50 wood.",
+    "UniqueID": "Denkiya.MyMod",
+    "EntryDll": "ResourceMod.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+  }
+  

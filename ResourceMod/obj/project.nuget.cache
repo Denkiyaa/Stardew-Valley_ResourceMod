@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vCceeJ4kJY=",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Stardew Valley\\Mods\\ResourceMod\\ResourceMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Berkay\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
