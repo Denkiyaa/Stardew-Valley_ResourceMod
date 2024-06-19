@@ -25,9 +25,9 @@ namespace ResourceMod
                 var player = Game1.player;
                 if (player != null)
                 {
-                    // Taş ve odun nesnelerini oluşturun
-                    var stone = new StardewValley.Object(390.ToString(), 50); // 50 taş
-                    var wood = new StardewValley.Object(388.ToString(), 50);  // 50 odun
+                    // ItemRegistry kullanarak taş ve odun nesnelerini oluşturun
+                    var stone = ItemRegistry.Create("390", 50); // 50 taş
+                    var wood = ItemRegistry.Create("388", 50);  // 50 odun
 
                     // Eşyaları envantere ekleyin
                     player.addItemByMenuIfNecessary(stone);
