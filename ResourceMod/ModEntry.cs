@@ -33,6 +33,8 @@ namespace ResourceMod
                     player.addItemByMenuIfNecessary(stone);
                     player.addItemByMenuIfNecessary(wood);
 
+                    Game1.drawObjectDialogue("Bö!");
+
                     this.Monitor.Log("50 taş ve 50 odun verildi.", LogLevel.Info);
                 }
             }
